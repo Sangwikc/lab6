@@ -13,7 +13,7 @@ public class Largest {
             if(n2 >= n3)
                 System.out.println(n2 + " is the largest number.");
             else
-                System.out.println(n3 + " is the largest number.");
+                System.out.println(n3 + " is the largest number.")
         }
     }
 }
